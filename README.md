@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Gustavo 👋</h1>
+
+## I'm a Brazilian computer scientist fascinated by deep learning research 🇧🇷 🧠
+
+I am an AI Engineer at Samsung R&D Institute Brazil, working on computer vision. I received my bachelor’s in computer science from the University of São Paulo in 2020.
+
+### Contact 💬
+
+If you want to get in touch to talk about ML, soccer or anything else feel free to reach my on [twitter](https://twitter.com/suttergustavo)
 
 <!--
 **suttergustavo/suttergustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
