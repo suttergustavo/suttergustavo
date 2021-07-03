@@ -2,7 +2,7 @@
 
 ## I'm a Brazilian computer scientist fascinated by deep learning research 🇧🇷 🧠
 
-I am an AI Engineer at Samsung R&D Institute Brazil, working on computer vision. I received my bachelor’s in computer science from the University of São Paulo in 2020.
+I'm work with computer vision at Samsung R&D Institute Brazil. I received my bachelor’s in computer science from the University of São Paulo in 2020.
 
 ### Contact 💬
 
