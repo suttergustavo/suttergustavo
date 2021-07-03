@@ -6,7 +6,7 @@ I'm work with computer vision at Samsung R&D Institute Brazil. I received my bac
 
 ### Contact 💬
 
-If you want to get in touch to talk about ML, soccer or anything else feel free to reach my on [twitter](https://twitter.com/suttergustavo)
+If you want to get in touch to talk about ML, soccer or anything else feel free to reach me on [twitter](https://twitter.com/suttergustavo)
 
 <!--
 **suttergustavo/suttergustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
