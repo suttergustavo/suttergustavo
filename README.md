@@ -2,7 +2,7 @@
 
 ## I'm a Brazilian computer scientist fascinated by deep learning research 🇧🇷 🧠
 
-I work with computer vision at Samsung R&D Institute Brazil. I received my bachelor’s in computer science from the University of São Paulo in 2020.
+I’m currently a computer science master's student at the University of Waterloo, working with Prof. Pascal Poupart.
 
 ### Contact 💬
 
