@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Gustavo 👋</h1>
 
-## I'm a Brazilian computer scientist fascinated by deep learning research 🇧🇷 🧠
-
-I’m currently a computer science master's student at the University of Waterloo, working with Prof. Pascal Poupart.
+I’m currently a computer science master's student at the University of Waterloo, working with Prof. Pascal Poupart. I'm interested in deep learning and machine learning in general.
 
 ### Contact 💬
 
