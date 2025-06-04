@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Gustavo 👋</h1>
 
-I’m currently a computer science PhD student at the University of Waterloo, working with Prof. Pascal Poupart. I'm interested in deep learning and machine learning in general.
-
-### Contact 💬
-
-If you want to get in touch to talk about ML, soccer or anything else feel free to reach me on [twitter](https://twitter.com/suttergustavo)
+I’m currently a computer science PhD student at the University of Waterloo, working with Prof. Pascal Poupart. I'm interested in (probabilistic) machine learning and its applications in decision-making and NLP.
 
 <!--
 **suttergustavo/suttergustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
