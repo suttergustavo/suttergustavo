@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Gustavo 👋</h1>
 
-I’m currently a computer science PhD student at the University of Waterloo, working with Prof. Pascal Poupart. I'm interested in (probabilistic) machine learning and its applications in decision-making and NLP.
+I’m currently a computer science PhD student at the University of Waterloo, working with Prof. Pascal Poupart. I'm interested in (probabilistic) machine learning, decision-making under uncertainty and foundation models.
 
 <!--
 **suttergustavo/suttergustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
